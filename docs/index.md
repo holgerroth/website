@@ -14,11 +14,11 @@ In 2021, **COFE** was used to conduct the largest to-date real world federation,
 
 ## Upcoming Events
 
-- [ISBI 2024](https://biomedicalimaging.org/2024/tutorials-final/#:~:text=TUTORIAL%207%3A%20FEDERATED%20LEARNING%20IN%20HEALTHCARE) - 27 May (Greece)
 - [MICCAI 2024](https://conferences.miccai.org/2024/en/PROGRAM.html) - 6-10 October (Morocco)
 
 ## Past Events
 
+- [ISBI 2024](https://biomedicalimaging.org/2024/tutorials-final/#:~:text=TUTORIAL%207%3A%20FEDERATED%20LEARNING%20IN%20HEALTHCARE) - 27 May (Greece)
 - [Bridge Event at AAAI 2024 - 19-20 Feb](https://aaai.org/aaai-conference/aaai-24-bridge-list/#bp08)
 - Hands on Deep Learning Lab at RSNA Annual Meet 2023
 - Tutorial in [MICCAI 2023](https://conferences.miccai.org/2023/en/)
