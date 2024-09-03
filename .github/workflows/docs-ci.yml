@@ -17,6 +17,5 @@ jobs:
         with:
           python-version: "3.9"
       - run: pip install -r docs/requirements.txt
-      - run: |
-        git config --system core.longpaths true
-        mkdocs gh-deploy --force
+      - run: git config --system core.longpaths true
+      - run: mkdocs gh-deploy --force
