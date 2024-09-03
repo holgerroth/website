@@ -3,7 +3,7 @@
 |   **Time**  |                                   **Title**                                  |   **Speaker**   |    **Comments**   |
 |:-----------:|:----------------------------------------------------------------------------:|:---------------:|:-----------------:|
 | 0900 - 1000 |               Introduction to Federated Learning for Healthcare              |  Spyridon Bakas |   45 talk + Q&A   |
-| 1000 - 1100 | Challenges and Practical Use Cases for Federated Learning in Medical Imaging |      Qi Do      |   45 talk + Q&A   |
+| 1000 - 1100 | Challenges and Practical Use Cases for Federated Learning in Medical Imaging |      Qi Dou     |   45 talk + Q&A   |
 | 1100 - 1130 |                                     Break                                    |                 |                   |
 | 1130 - 1200 |                   Introduction to Model Design using GaNDLF                  |   Sarthak Pati  | 25 min talk + Q&A |
 | 1200 - 1230 |                       Model optimization using OpenVINO                      | Siddhesh Thakur | 25 min talk + Q&A |
