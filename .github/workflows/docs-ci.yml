@@ -12,10 +12,11 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
+      - name: Enable long paths in Git
+        run: git config --system core.longpaths true
       - uses: actions/checkout@v2
       - uses: actions/setup-python@v2
         with:
           python-version: "3.9"
       - run: pip install -r docs/requirements.txt
-      - run: git config --system core.longpaths true
       - run: mkdocs gh-deploy --force
