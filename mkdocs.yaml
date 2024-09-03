@@ -6,7 +6,8 @@ repo_name: CollaborativeFederatedLearningTutorials/website
 nav:
   - Introduction: index.md
   - Tutorial: tutorial.md
-  - MICCAI-24 Schedule: miccai_2024.md
+  - Schedule: schedule.md
+  - Previous: previous.md
 
 theme:
   features:
