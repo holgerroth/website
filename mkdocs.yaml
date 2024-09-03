@@ -4,10 +4,10 @@ site_url: https://collaborativefederatedlearningtutorials.github.io/website
 repo_url: https://github.com/CollaborativeFederatedLearningTutorials/website
 repo_name: CollaborativeFederatedLearningTutorials/website
 nav:
-  - Introduction: index.md
-  - Tutorial: tutorial.md
-  - Schedule: schedule.md
-  - Previous: previous.md
+  - Introduction: ./docs/index.md
+  - Tutorial: ./docs/tutorial.md
+  - Schedule: ./docs/schedule.md
+  - Previous: ./docs/previous.md
 
 theme:
   features:
