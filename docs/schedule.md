@@ -10,3 +10,7 @@
 | 1100 - 1130 |                      Model deployment using Hugging Face                     |   [Cyril Zakka](https://cyrilzakka.github.io/)  | 25' talk + Q&A |
 | 1130 - 1200 |                        Federated Learning using OpenFL                       |      [Patrick Foley](https://www.linkedin.com/in/psfoley/)      | 25' talk + Q&A |
 | 1200 - 1230 |    Federated Evaluation using MedPerf and how to conduct hands-on session    |   [Hasan Kassem](https://www.linkedin.com/in/hasan-kassem-02625119b/?originalSubdomain=fr)  | 25' talk + Q&A |
+
+All presentation material can be found [here](https://github.com/CollaborativeFederatedLearningTutorials/website/tree/main/docs/archive/2024_miccai).
+
+The self-guided hands-on session can be found [here](https://fl-tutorials.org/).
