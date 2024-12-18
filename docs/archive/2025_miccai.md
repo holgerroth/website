@@ -3,7 +3,7 @@
 |    **Time**    |                             **Session**                            |   **Speaker**   |                   **Comments**                   |
 |:--------------:|:------------------------------------------------------------------:|:---------------:|:------------------------------------------------:|
 |   0900 - 0905  |                          Environment Setup                         |  Hasan/Sarthak  |           Codespaces makes this trivial          |
-|   0905 - 0930  |          Introduction to Federated Learning for Healthcare         | Spyros/Ezequiel |                 20 min talk + Q&A                |
+|   0905 - 0930  |          Introduction to Federated Learning for Healthcare         |      Spyros     |                 20 min talk + Q&A                |
 |   0930 - 1000  |           Practical Use of FL for large foundational models        |     Holger      |                 25 min talk + Q&A                |
 |   1000 - 1030  |     Introduction to Model Design using GaNDLF (including MONAI)    |     Sarthak     |                 25 min talk + Q&A                |
 |   1030 - 1100  |          Break and Questions related to Environment Setup          |       N.A.      | Light refreshments available  near session rooms |
